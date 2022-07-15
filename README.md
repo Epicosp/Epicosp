@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Stuart
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on smart contracts in solidity
 - 🌱 I’m currently learning c++ and ardunio
 - 👯 I’m looking to collaborate on data analysis/Machine learning problems
