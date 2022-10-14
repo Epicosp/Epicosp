@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Stuart
 
 - 🔭 I’m currently working postgresSQL database and powerBI.
-- 🌱 I’m currently learning c++ and arduino.
+- 🌱 I’m currently learning Data science through the IBM data science professional certificate.
 - 👯 I’m looking to collaborate on data analysis/Machine learning problems.
 - 🤔 I’m looking for help with understanding makefiles.
 - 💬 Ask me about science!
